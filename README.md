@@ -8,7 +8,7 @@ Spring Boot attendance system web application
 
 # Technologies
 
-Technologies: Spring Boot Web, Spring Data JPA & Hibernate, PostgreSQL.
+Technologies: Spring Boot Web, Spring Data JPA & Hibernate, PostgreSQL
 Software programs: IntelliJ IDEA Ultimate, PgAdmin4
 Deployed: Database Amazon RDS (PostgreSQL)
 
